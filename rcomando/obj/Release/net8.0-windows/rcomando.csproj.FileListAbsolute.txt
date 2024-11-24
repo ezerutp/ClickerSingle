@@ -1,0 +1,16 @@
+C:\Users\VIDARTE\source\repos\rcomando\rcomando\bin\Release\net8.0-windows\rcomando.exe
+C:\Users\VIDARTE\source\repos\rcomando\rcomando\bin\Release\net8.0-windows\rcomando.deps.json
+C:\Users\VIDARTE\source\repos\rcomando\rcomando\bin\Release\net8.0-windows\rcomando.runtimeconfig.json
+C:\Users\VIDARTE\source\repos\rcomando\rcomando\bin\Release\net8.0-windows\rcomando.dll
+C:\Users\VIDARTE\source\repos\rcomando\rcomando\bin\Release\net8.0-windows\rcomando.pdb
+C:\Users\VIDARTE\source\repos\rcomando\rcomando\obj\Release\net8.0-windows\rcomando.Form1.resources
+C:\Users\VIDARTE\source\repos\rcomando\rcomando\obj\Release\net8.0-windows\rcomando.csproj.GenerateResource.cache
+C:\Users\VIDARTE\source\repos\rcomando\rcomando\obj\Release\net8.0-windows\rcomando.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VIDARTE\source\repos\rcomando\rcomando\obj\Release\net8.0-windows\rcomando.AssemblyInfoInputs.cache
+C:\Users\VIDARTE\source\repos\rcomando\rcomando\obj\Release\net8.0-windows\rcomando.AssemblyInfo.cs
+C:\Users\VIDARTE\source\repos\rcomando\rcomando\obj\Release\net8.0-windows\rcomando.csproj.CoreCompileInputs.cache
+C:\Users\VIDARTE\source\repos\rcomando\rcomando\obj\Release\net8.0-windows\rcomando.dll
+C:\Users\VIDARTE\source\repos\rcomando\rcomando\obj\Release\net8.0-windows\refint\rcomando.dll
+C:\Users\VIDARTE\source\repos\rcomando\rcomando\obj\Release\net8.0-windows\rcomando.pdb
+C:\Users\VIDARTE\source\repos\rcomando\rcomando\obj\Release\net8.0-windows\rcomando.genruntimeconfig.cache
+C:\Users\VIDARTE\source\repos\rcomando\rcomando\obj\Release\net8.0-windows\ref\rcomando.dll

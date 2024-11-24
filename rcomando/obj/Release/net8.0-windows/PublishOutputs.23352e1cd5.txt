@@ -1,0 +1,5 @@
+C:\Users\VIDARTE\source\repos\rcomando\rcomando\bin\Release\net8.0-windows\publish\rcomando.exe
+C:\Users\VIDARTE\source\repos\rcomando\rcomando\bin\Release\net8.0-windows\publish\rcomando.dll
+C:\Users\VIDARTE\source\repos\rcomando\rcomando\bin\Release\net8.0-windows\publish\rcomando.deps.json
+C:\Users\VIDARTE\source\repos\rcomando\rcomando\bin\Release\net8.0-windows\publish\rcomando.runtimeconfig.json
+C:\Users\VIDARTE\source\repos\rcomando\rcomando\bin\Release\net8.0-windows\publish\rcomando.pdb
